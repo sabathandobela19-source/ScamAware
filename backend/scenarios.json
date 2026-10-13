@@ -1,0 +1,344 @@
+{
+  "trust-1": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": false,
+      "c": true,
+      "d": false
+    }
+  },
+  "trust-2": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "trust-3": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "trust-4": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "trust-5": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "trust-6": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "trust-7": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": false,
+      "c": true,
+      "d": false
+    }
+  },
+  "trust-8": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": false,
+      "c": true,
+      "d": false
+    }
+  },
+  "trust-9": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "trust-10": {
+    "factor": "Trust",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "urgency-1": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "urgency-2": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "urgency-3": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "urgency-4": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "urgency-5": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "urgency-6": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "urgency-7": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "urgency-8": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "urgency-9": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "urgency-10": {
+    "factor": "Urgency",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "fear-1": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "fear-2": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "fear-3": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "fear-4": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "fear-5": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "fear-6": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "fear-7": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "fear-8": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "fear-9": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "fear-10": {
+    "factor": "Fear",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "authority-1": {
+    "factor": "Authority",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "authority-2": {
+    "factor": "Authority",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": false
+    }
+  },
+  "authority-3": {
+    "factor": "Authority",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "authority-4": {
+    "factor": "Authority",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "authority-5": {
+    "factor": "Authority",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "authority-6": {
+    "factor": "Authority",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "authority-7": {
+    "factor": "Authority",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "authority-8": {
+    "factor": "Authority",
+    "options": {
+      "a": true,
+      "b": false,
+      "c": false
+    }
+  },
+  "authority-9": {
+    "factor": "Authority",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  },
+  "authority-10": {
+    "factor": "Authority",
+    "options": {
+      "a": false,
+      "b": true,
+      "c": false
+    }
+  }
+}
